@@ -94,3 +94,24 @@ button:hover span{
 button:hover{
     border: none;
 }
+.content_howitworks{
+    width: 100%;
+    position: absolute;
+    margin top: 30px;
+    max-width: 60rem;
+    margin-left:120;
+    text-align: center;
+    border-radius: 25px;
+    color: #fff;
+    background: #005A00;
+}
+.content_howitworks h1{
+    font-size: 40px;
+    margin-top: 80px;
+}
+
+.content_howitworks p{
+    margin: 20px auto;
+    font-weight: 200;
+    line-height: 25px;
+}
